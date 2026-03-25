@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "titulo": "Aquaman",
+        "diretor": "James Wan",
+        "ano": 2018
+    },
+    {
+        "id": 2,
+        "titulo": "Transformers",
+        "diretor": "Michael Bay",
+        "ano": 2007
+    }
+]
